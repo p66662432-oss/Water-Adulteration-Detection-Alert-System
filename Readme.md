@@ -39,7 +39,6 @@ An IoT-based smart water quality monitoring system developed using **ESP32**, **
 * Google Apps Script
 * Google Sheets
 * Python
-* Scikit-learn
 * Logistic Regression
 
 ---
@@ -206,16 +205,11 @@ The repository includes:
 * Wi-Fi Communication
 * Cloud Integration
 * Google Apps Script
-* Machine Learning Deployment
-* Logistic Regression
-* Data Acquisition
-* Embedded AI
+
 
 ---
 
-## 📜 License
 
-This project is licensed under the MIT License.
 
 ---
 
